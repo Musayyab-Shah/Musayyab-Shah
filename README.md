@@ -22,6 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musayyab-shah&show_icons=true&locale=en" alt="musayyab-shah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musayyab-shah&" alt="musayyab-shah" /></p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="musayyabshah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/musayyabshah?trk=profile-badge">Musayyab Shah</a></div>
-              
