@@ -1,4 +1,3 @@
-![logo](https://github.com/Musayyab-Shah/Musayyab-Shah/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Musayyab Shah</h1>
 <h3 align="center">A passionate Ethical Hacker from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRuenljbGhyMGF2cTF2MnY2dHA0MW41bXQzdnRtb2d6bmV5ZGNncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
