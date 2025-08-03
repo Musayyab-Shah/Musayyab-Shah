@@ -13,7 +13,7 @@ A passionate and dedicated Ethical Hacker from Pakistan, currently expanding my 
 Connect with Me
 
 •
-Website: musayyabshah.com
+Website: https://musayyabshah.com/
 
 •
 Author Page: https://wisetoast.com/author/musayyab/
